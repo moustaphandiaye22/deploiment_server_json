@@ -1,12 +1,11 @@
-[
-  {
-    "currentUser": {
-      "phone": "2345678988"
-    },
-    "contacts": [],
-    "groups": [],
-    "messages": {},
-    "archived": [],
-    "blocked": []
-  }
-]
+
+{
+  "currentUser": {
+    "phone": "2345678988"
+  },
+  "contacts": [],
+  "groups": [],
+  "messages": {},
+  "archived": [],
+  "blocked": []
+}
